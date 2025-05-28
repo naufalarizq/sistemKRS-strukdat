@@ -1,0 +1,15 @@
+# Ignore executable
+krs_app.exe
+
+# VSCode settings (optional)
+.vscode/
+
+# Ignore data files
+*.dat
+*.txt
+
+# Temp file
+*~ 
+*.obj
+*.o
+*.log
